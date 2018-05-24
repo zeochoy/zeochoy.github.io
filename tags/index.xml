@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Zeo Choy</title>
+    <link>https://zeochoy.github.io/tags/</link>
+    <description>Recent content in Tags on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 May 2018 16:55:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://zeochoy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data</title>
+      <link>https://zeochoy.github.io/tags/big-data/</link>
+      <pubDate>Thu, 24 May 2018 16:55:59 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biological Data Mining</title>
+      <link>https://zeochoy.github.io/tags/biological-data-mining/</link>
+      <pubDate>Thu, 24 May 2018 16:55:59 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/biological-data-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemoresistance</title>
+      <link>https://zeochoy.github.io/tags/chemoresistance/</link>
+      <pubDate>Thu, 24 May 2018 16:55:25 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/chemoresistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://zeochoy.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 24 May 2018 16:55:59 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Micorfluidics</title>
+      <link>https://zeochoy.github.io/tags/micorfluidics/</link>
+      <pubDate>Thu, 24 May 2018 16:55:25 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/micorfluidics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://zeochoy.github.io/tags/python/</link>
+      <pubDate>Thu, 24 May 2018 16:55:25 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://zeochoy.github.io/tags/simulation/</link>
+      <pubDate>Thu, 24 May 2018 16:55:25 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Modeling</title>
+      <link>https://zeochoy.github.io/tags/stochastic-modeling/</link>
+      <pubDate>Thu, 24 May 2018 16:55:25 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/tags/stochastic-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

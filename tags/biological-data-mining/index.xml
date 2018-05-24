@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biological Data Mining on Zeo Choy</title>
+    <link>https://zeochoy.github.io/tags/biological-data-mining/</link>
+    <description>Recent content in Biological Data Mining on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 May 2018 16:55:59 +0800</lastBuildDate>
+    
+	<atom:link href="https://zeochoy.github.io/tags/biological-data-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gene Embeddings</title>
+      <link>https://zeochoy.github.io/project/gene-embeddings/</link>
+      <pubDate>Thu, 24 May 2018 16:55:59 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/project/gene-embeddings/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

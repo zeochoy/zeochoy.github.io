@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation on Zeo Choy</title>
+    <link>https://zeochoy.github.io/tags/simulation/</link>
+    <description>Recent content in Simulation on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 24 May 2018 16:55:25 +0800</lastBuildDate>
+    
+	<atom:link href="https://zeochoy.github.io/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resim</title>
+      <link>https://zeochoy.github.io/project/resim/</link>
+      <pubDate>Thu, 24 May 2018 16:55:25 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/project/resim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

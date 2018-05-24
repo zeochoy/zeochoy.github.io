@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Zeo Choy</title>
+    <link>https://zeochoy.github.io/publication/</link>
+    <description>Recent content in Publications on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zeochoy.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Low expressions of ASS1 and OTC in glioblastoma suggest the potential clinical use of recombinant human arginase (rhArg)</title>
+      <link>https://zeochoy.github.io/publication/ass1-otc-gbm-rharg/</link>
+      <pubDate>Thu, 24 May 2018 16:53:50 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/ass1-otc-gbm-rharg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upregulation of Bcl2 in NSCLC with acquired resistance to EGFR‑TKI</title>
+      <link>https://zeochoy.github.io/publication/bcl2-nsclc-egfrtki-resistance/</link>
+      <pubDate>Thu, 24 May 2018 16:48:53 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/bcl2-nsclc-egfrtki-resistance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
