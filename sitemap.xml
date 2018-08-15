@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://zeochoy.github.io/project/deepsac/</loc>
+      <lastmod>2018-05-24T16:55:59+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://zeochoy.github.io/project/gene-embeddings/</loc>
       <lastmod>2018-05-24T16:55:59+08:00</lastmod>
     </url>
@@ -16,6 +25,15 @@
     
       <loc>https://zeochoy.github.io/project/resim/</loc>
       <lastmod>2018-05-24T16:55:25+08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://zeochoy.github.io/publication/tcga-embedding/</loc>
+      <lastmod>2018-05-24T16:53:50+08:00</lastmod>
     </url>
     
   
@@ -68,14 +86,6 @@
     
     <url>
     
-      <loc>https://zeochoy.github.io/cv/cv/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://zeochoy.github.io/publication_types/2/</loc>
       <lastmod>2018-05-24T16:48:53+08:00</lastmod>
       <priority>0</priority>
@@ -87,6 +97,16 @@
     <url>
     
       <loc>https://zeochoy.github.io/publication_types/3/</loc>
+      <lastmod>2018-05-24T16:53:50+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://zeochoy.github.io/publication_types/4/</loc>
       <lastmod>2018-05-24T16:53:50+08:00</lastmod>
       <priority>0</priority>
     </url>
@@ -116,15 +136,6 @@
     
     <url>
     
-      <loc>https://zeochoy.github.io/cv/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://zeochoy.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -136,6 +147,26 @@
     
       <loc>https://zeochoy.github.io/tags/chemoresistance/</loc>
       <lastmod>2018-05-24T16:55:25+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://zeochoy.github.io/tags/deep-learning/</loc>
+      <lastmod>2018-05-24T16:55:59+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://zeochoy.github.io/tags/drug-response-prediction/</loc>
+      <lastmod>2018-05-24T16:55:59+08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -194,6 +225,16 @@
     
     <url>
     
+      <loc>https://zeochoy.github.io/tags/rna-seq/</loc>
+      <lastmod>2018-05-24T16:55:59+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://zeochoy.github.io/tags/simulation/</loc>
       <lastmod>2018-05-24T16:55:25+08:00</lastmod>
       <priority>0</priority>
@@ -206,6 +247,16 @@
     
       <loc>https://zeochoy.github.io/tags/stochastic-modeling/</loc>
       <lastmod>2018-05-24T16:55:25+08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://zeochoy.github.io/tags/tcga/</loc>
+      <lastmod>2018-05-24T16:55:59+08:00</lastmod>
       <priority>0</priority>
     </url>
     
