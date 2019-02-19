@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herbert Ho Fung Loong on Zeo Choy</title>
+    <link>https://zeochoy.github.io/authors/herbert-ho-fung-loong/</link>
+    <description>Recent content in Herbert Ho Fung Loong on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zeochoy.github.io/authors/herbert-ho-fung-loong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Low expressions of ASS1 and OTC in glioblastoma suggest the potential clinical use of recombinant human arginase (rhArg)</title>
+      <link>https://zeochoy.github.io/publication/gbm-rharg/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/gbm-rharg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preclinical Evaluation of the Recombinant Human Arginase PEG-BCT-100 leading to Arginine Deprivation in Gliomas</title>
+      <link>https://zeochoy.github.io/publication/bct-gbm/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/bct-gbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preclinical evaluation of the recombinant human arginase PEG-BCT-100 leading to arginine deprivation in sarcomas</title>
+      <link>https://zeochoy.github.io/publication/bct-sar/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/bct-sar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

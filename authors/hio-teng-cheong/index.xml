@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hio Teng Cheong on Zeo Choy</title>
+    <link>https://zeochoy.github.io/authors/hio-teng-cheong/</link>
+    <description>Recent content in Hio Teng Cheong on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zeochoy.github.io/authors/hio-teng-cheong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Upregulation of Bcl2 in NSCLC with acquired resistance to EGFR‑TKI</title>
+      <link>https://zeochoy.github.io/publication/bcl2-nsclc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/bcl2-nsclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preclinical Evaluation of the Recombinant Human Arginase PEG-BCT-100 leading to Arginine Deprivation in Gliomas</title>
+      <link>https://zeochoy.github.io/publication/bct-gbm/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/bct-gbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preclinical evaluation of the recombinant human arginase PEG-BCT-100 leading to arginine deprivation in sarcomas</title>
+      <link>https://zeochoy.github.io/publication/bct-sar/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/bct-sar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

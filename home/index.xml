@@ -6,53 +6,114 @@
     <description>Recent content in Homes on Zeo Choy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
     
 	<atom:link href="https://zeochoy.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
+      <link>https://zeochoy.github.io/home/hero_carousel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bio</title>
       <link>https://zeochoy.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/about/</guid>
-      <description>Biography A PhD student from Hong Kong. My current research interests include application of machine learning, especially deep learning, in oncology and development of bioinformatics tools. In the past, I have worked on project relating to microfluidics. I also have extensive wet lab experience, e.g. basic molecular biology, tissue culture and drug testing.
-As tons of people including experts, doctors and scientist foresee the advancement in artificial intelligence could accelerate the progress of personalized and precision oncology, I have a strong belief that the marriage of deep learning and next generation sequencing could be an indispensable catalyst which fuelling my enthusiasm for applying deep learning on NGS data.</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zeochoy.github.io/home/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://zeochoy.github.io/home/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://zeochoy.github.io/home/workexp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/workexp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HONORS &amp; AWARDS</title>
+      <link>https://zeochoy.github.io/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/accomplishments/</guid>
+      <description></description>
     </item>
     
     <item>
       <title></title>
       <link>https://zeochoy.github.io/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/cv/</guid>
       <description>HONORS &amp;amp; AWARDS  ESMO Congress 2018 Merit Award, European Society of Medical Oncology, 2018 Yeung Sau Hang Memorial Scholarship, The Chinese University of Hong Kong, 2018 Founding Master Gold Medal for Graduating Students, Lee Woo Sing College, The Chinese University of Hong Kong, 2014 Dean’s List, Faculty of Engineering, The Chinese University of Hong Kong, 2014 Lee Woo Sing College Extra-Curricular Activities Awards, Lee Woo Sing College, The Chinese University of Hong Kong, 2013 College Patron Dr.</description>
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>https://zeochoy.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <title>Experience</title>
+      <link>https://zeochoy.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zeochoy.github.io/home/publications_selected/</guid>
+      <guid>https://zeochoy.github.io/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Featured Publications</title>
+      <link>https://zeochoy.github.io/home/publications_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/publications_featured/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
       <link>https://zeochoy.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Featured Talks</title>
+      <link>https://zeochoy.github.io/home/talks_featured/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/talks_featured/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://zeochoy.github.io/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/talks/</guid>
       <description></description>
@@ -61,7 +122,7 @@ As tons of people including experts, doctors and scientist foresee the advanceme
     <item>
       <title>Recent Posts</title>
       <link>https://zeochoy.github.io/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/posts/</guid>
       <description></description>
@@ -70,7 +131,7 @@ As tons of people including experts, doctors and scientist foresee the advanceme
     <item>
       <title>Projects</title>
       <link>https://zeochoy.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/projects/</guid>
       <description></description>
@@ -79,7 +140,7 @@ As tons of people including experts, doctors and scientist foresee the advanceme
     <item>
       <title>Custom Section</title>
       <link>https://zeochoy.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -89,7 +150,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Tags</title>
       <link>https://zeochoy.github.io/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/tags/</guid>
       <description></description>
@@ -98,7 +159,7 @@ To remove this section, either delete content/home/teaching.md or edit the front
     <item>
       <title>Contact</title>
       <link>https://zeochoy.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/contact/</guid>
       <description></description>

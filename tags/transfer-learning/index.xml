@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transfer Learning on Zeo Choy</title>
+    <link>https://zeochoy.github.io/tags/transfer-learning/</link>
+    <description>Recent content in Transfer Learning on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    
+	<atom:link href="https://zeochoy.github.io/tags/transfer-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skinapp</title>
+      <link>https://zeochoy.github.io/project/skinapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/project/skinapp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

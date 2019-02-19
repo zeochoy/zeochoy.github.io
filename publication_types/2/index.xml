@@ -6,18 +6,36 @@
     <description>Recent content in 2 on Zeo Choy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 24 May 2018 16:48:53 +0800</lastBuildDate>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://zeochoy.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Upregulation of Bcl2 in NSCLC with acquired resistance to EGFR‑TKI</title>
-      <link>https://zeochoy.github.io/publication/bcl2-nsclc-egfrtki-resistance/</link>
-      <pubDate>Thu, 24 May 2018 16:48:53 +0800</pubDate>
+      <title>Embedding of genes using cancer gene expression data: biological relevance and potential application on biomarker discovery</title>
+      <link>https://zeochoy.github.io/publication/gene-embedding/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://zeochoy.github.io/publication/bcl2-nsclc-egfrtki-resistance/</guid>
+      <guid>https://zeochoy.github.io/publication/gene-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upregulation of Bcl2 in NSCLC with acquired resistance to EGFR‑TKI</title>
+      <link>https://zeochoy.github.io/publication/bcl2-nsclc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/bcl2-nsclc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low expressions of ASS1 and OTC in glioblastoma suggest the potential clinical use of recombinant human arginase (rhArg)</title>
+      <link>https://zeochoy.github.io/publication/gbm-rharg/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/gbm-rharg/</guid>
       <description></description>
     </item>
     

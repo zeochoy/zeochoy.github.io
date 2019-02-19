@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Lam Chan on Zeo Choy</title>
+    <link>https://zeochoy.github.io/authors/stephen-lam-chan/</link>
+    <description>Recent content in Stephen Lam Chan on Zeo Choy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://zeochoy.github.io/authors/stephen-lam-chan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Embedding of genes using cancer gene expression data: biological relevance and potential application on biomarker discovery</title>
+      <link>https://zeochoy.github.io/publication/gene-embedding/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/gene-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene embedding: A novel machine learning approach to identify gene candidates related to immunotherapy responsiveness</title>
+      <link>https://zeochoy.github.io/publication/esmo-gene-embedding/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/esmo-gene-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preclinical study on the efficacy of Panobinostat in hepatocellular carcinoma</title>
+      <link>https://zeochoy.github.io/publication/pano-hcc/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://zeochoy.github.io/publication/pano-hcc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
