@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Bio</title>
+      <title>About Me</title>
       <link>https://zeochoy.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -57,12 +57,21 @@
     </item>
     
     <item>
-      <title>HONORS &amp; AWARDS</title>
+      <title>Honors / Awards</title>
       <link>https://zeochoy.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/accomplishments/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zeochoy.github.io/home/cv-old/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/cv-old/</guid>
+      <description>HONORS &amp;amp; AWARDS  ESMO Congress 2018 Merit Award, European Society of Medical Oncology, 2018 Yeung Sau Hang Memorial Scholarship, The Chinese University of Hong Kong, 2018 Founding Master Gold Medal for Graduating Students, Lee Woo Sing College, The Chinese University of Hong Kong, 2014 Dean’s List, Faculty of Engineering, The Chinese University of Hong Kong, 2014 Lee Woo Sing College Extra-Curricular Activities Awards, Lee Woo Sing College, The Chinese University of Hong Kong, 2013 College Patron Dr.</description>
     </item>
     
     <item>
@@ -116,6 +125,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zeochoy.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://zeochoy.github.io/home/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zeochoy.github.io/home/research/</guid>
       <description></description>
     </item>
     
