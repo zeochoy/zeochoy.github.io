@@ -65,9 +65,15 @@ sections:
         - title: CTO
           company: Petcision Limited
           company_url: 'https://petcision.hk'
+          company_logo: ''
+          location: Hong Kong
           date_start: '2024-04-01'
           date_end: ''
-          description: 
+          description: |2-
+              Responsibilities include:
+                        * Analysing
+                        * Modelling
+                        * Deploying
     design:
       columns: '2'
   - block: accomplishments
