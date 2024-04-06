@@ -69,7 +69,7 @@ sections:
           location: Hong Kong
           date_start: '2024-04-01'
           date_end: ''
-          description: 
+          description: ''
         - title: Senior Scientific Officer
           company: BioMed Technology Holdings Limited
           company_url:
@@ -78,8 +78,8 @@ sections:
           date_start: '2022-02-10'
           date_end: '2024-03-18'
           description: |2-
-          * In charge of the research logistics, coordination, timeline, manuscript preparation and bioinformatics analysis for microbiome research projects
-          * Leaded the R&D team and interns to prepare scientifically driven materials to support sales & marketing activities
+              * In charge of the research logistics, coordination, timeline, manuscript preparation and bioinformatics analysis for microbiome research projects
+              * Leaded the R&D team and interns to prepare scientifically driven materials to support sales & marketing activities
         - title: Scientific Officer (Cancer Genome)
           company: Hong Kong Genome Institute
           company_url:
@@ -88,8 +88,8 @@ sections:
           date_start: '2021-03-01'
           date_end: '2021-12-01'
           description: |2-
-          * Assisted the senior officers in planning and setting up a new molecular laboratory supporting population genome project
-          * Prepared reporting guidelines and internal training materials for data interpretation and genome analysis
+              * Assisted the senior officers in planning and setting up a new molecular laboratory supporting population genome project
+              * Prepared reporting guidelines and internal training materials for data interpretation and genome analysis
         - title: Research Officier
           company: Sanomics Limited
           company_url:
@@ -98,8 +98,8 @@ sections:
           date_start: '2018-12-01'
           date_end: '2020-12-01'
           description: |2-
-          * Provided bioinformatics support (including QA/QC, data analysis, management, and interpretation) for clinical reporting of NGS data
-          * Leaded and planned various cancer research projects ($10m funding)
+              * Provided bioinformatics support (including QA/QC, data analysis, management, and interpretation) for clinical reporting of NGS data
+              * Leaded and planned various cancer research projects ($10m funding)
     design:
       columns: '2'
   - block: accomplishments
