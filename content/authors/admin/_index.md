@@ -1,89 +1,98 @@
 ---
 # Display name
-title: 吳健雄
+title: Zeo Choy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Zeo
+last_name: Choy
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧬
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD / Bioinformatician / AI & ML
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Chinese University of Hong Kong
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ''
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - AI/ML
+  - NGS
+  - Precision Medicine
+  - Molecular Diagnostics
+  - Cancer
+  - Microbiome
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Medical Sciences
+      institution: The Chinese University of Hong Kong
+      year: 2019
+    - course: MPhil in Medical Sciences
+      institution: The Chinese University of Hong Kong
+      year: 2016
+    - course: BEng in Biomedical Engineering
+      institution: The Chinese University of Hong Kong
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Dry
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
+      - name: Bioinformatics
+        description: '&bull; Worked with WGS, WES, RNA-Seq, targeted resequencing data, microbiome (16S, shotgun)
+        &bull; Familiar with public database e.g. GEO, TCGA, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS etc.
+        &bull; Biological data mining, biomarkers discovery, molecular subtyping and survival analysis
+        &bull; Experience in variant interpretation using ACGS, ACMG, AMP guidelines'
+        percent: 100
+        icon: database
+        icon_pack: fas
+      - name: Programming
+        description: 'Experience in  <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell <br>
+        &bull; Known Django, HTML, Bootstrap, JavaScript, SQL, C++ <br>
+        &bull; Familiar with Linux, Mac OS, Windows, AWS and GCP'
+        percent: 100
+        icon: terminal
+        icon_pack: fas
       - name: Data Science
-        description: ''
+        description: 'AI, ML'
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
+  - name: Wet
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
+      - name: Molecular Techniques
+        description: 'NGS, PCR (PCR, qPCR, dPCR), cloning, immunostaining (IF/ICC/IHC), western blotting, flow cytometry'
         percent: 100
-        icon: cat
+        icon: dna
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+      - name: Diagnostics
+        description: 'Clinical Validation (CAP, ISO)'
+        percent: 100
+        icon: vial-virus
+        icon_pack: fas
+      - name: Cell Culture & Drug Testing
+        description: 'Cell lines, organoids, Mouse Xenograft'
+        percent: 100
+        icon: disease
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,32 +102,30 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: mailto:zeochoy@gmail.com
+  - icon: google-scholar
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=KNBUcQ4AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zeochoy
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zeochoy/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am interested in the application of machine learning especially deep learning in oncology and development of bioinformatics tools for NGS data analysis.\n
+
+In the past, I have worked on projects relating to microfluidics and mathematical modeling. I also have extensive wet lab experience, e.g. basic molecular biology techniques, tissue culture and drug testing.\n
+
+As tons of people including experts, doctors and scientist foresee the advancement in artificial intelligence could accelerate the progress of personalized and precision oncology. I have a strong belief that the marriage of deep learning and next generation sequencing could be an indispensable catalyst, which fuelling my enthusiasm for applying deep learning on NGS data.
 {style="text-align: justify;"}
