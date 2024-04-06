@@ -62,27 +62,44 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: CTO
+          company: Petcision Limited
+          company_url: 'https://petcision.hk'
+          company_logo: ''
+          location: Hong Kong
+          date_start: '2024-04-01'
           date_end: ''
+          description: 
+        - title: Senior Scientific Officer
+          company: BioMed Technology Holdings Limited
+          company_url:
+          company_logo:
+          location: Hong Kong
+          date_start: '2022-02-10'
+          date_end: '2024-03-18'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          * In charge of the research logistics, coordination, timeline, manuscript preparation and bioinformatics analysis for microbiome research projects
+          * Leaded the R&D team and interns to prepare scientifically driven materials to support sales & marketing activities
+        - title: Scientific Officer (Cancer Genome)
+          company: Hong Kong Genome Institute
+          company_url:
+          company_logo:
+          location: Hong Kong
+          date_start: '2021-03-01'
+          date_end: '2021-12-01'
+          description: |2-
+          * Assisted the senior officers in planning and setting up a new molecular laboratory supporting population genome project
+          * Prepared reporting guidelines and internal training materials for data interpretation and genome analysis
+        - title: Research Officier
+          company: Sanomics Limited
+          company_url:
+          company_logo:
+          location: Hong Kong
+          date_start: '2018-12-01'
+          date_end: '2020-12-01'
+          description: |2-
+          * Provided bioinformatics support (including QA/QC, data analysis, management, and interpretation) for clinical reporting of NGS data
+          * Leaded and planned various cancer research projects ($10m funding)
     design:
       columns: '2'
   - block: accomplishments
@@ -91,39 +108,48 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+      date_format: 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2014'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: ''
+          organization: Faculty of Engineering, The Chinese University of Hong Kong
+          organization_url: ''
+          title: Dean’s List
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2014'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: ''
+          organization: Lee Woo Sing College, The Chinese University of Hong Kong
+          organization_url: ''
+          title: Founding Master Gold Medal for Graduating Students
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018'
+          description: ''
+          icon: 
+          organization: The Chinese University of Hong Kong
+          organization_url: ''
+          title: Yeung Sau Hang Memorial Scholarship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2018'
+          description: ''
+          icon: 
+          organization: European Society for Medical Oncology
+          organization_url: ''
+          title: ESMO Congress 2018 Merit Award
           url: ''
     design:
       columns: '2'
