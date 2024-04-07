@@ -51,6 +51,7 @@ sections:
     design:
       columns: '1'
   - block: experience
+    id: exp
     content:
       title: Experience
       # Date format for experience
@@ -69,7 +70,15 @@ sections:
           location: Hong Kong
           date_start: '2024-04-01'
           date_end: ''
-          description: ''
+          description: |2-
+              * Develop technical aspects of the company's strategy to ensure alignment with its business goals
+              * Discover and implement new technologies that yield competitive advantage
+              * Communicate technology strategy to partners and investors
+        - title: MSc Thesis Project Suprevisor
+          company: HKU SPACE
+          date_start: '2019-09-01'
+          date_end: '2022-01-30'
+          description: 'Supervise MSc in Biomedical Sciences student to complete bioinformatics based thesis research projects.'
         - title: Senior Scientific Officer
           company: BioMed Technology Holdings Limited
           date_start: '2022-02-10'
@@ -80,10 +89,20 @@ sections:
         - title: Scientific Officer (Cancer Genome)
           company: Hong Kong Genome Institute
           date_start: '2021-03-01'
-          date_end: '2021-12-01'
+          date_end: '2021-11-30'
           description: |2-
               * Assisted the senior officers in planning and setting up a new molecular laboratory supporting population genome project
               * Prepared reporting guidelines and internal training materials for data interpretation and genome analysis
+        - title: Research Scientist
+          company: InSilico Medicine
+          date_start: '2020-12-15'
+          date_end: '2021-02-15'
+          description: ''
+        - title: Lecturer (Part Time)
+          company: HKU SPACE Po Leung Kuk Stanley Ho Community College
+          date_start: '2019-09-01'
+          date_end: '2022-01-30'
+          description: ''
         - title: Research Officier
           company: Sanomics Limited
           date_start: '2018-12-01'
@@ -144,6 +163,21 @@ sections:
           url: ''
     design:
       columns: '2'
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: portfolio
     id: projects
     content:
@@ -171,20 +205,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: contact
     id: contact
     content:
