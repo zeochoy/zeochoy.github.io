@@ -21,7 +21,7 @@ role: PhD / Bioinformatician / AI & ML
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Chinese University of Hong Kong
+  - name: 
     url: 
 
 # Short bio (displayed in user profile at end of posts)
@@ -56,23 +56,26 @@ skills:
   - name: Dry
     items:
       - name: Bioinformatics
-        description: '&bull; Worked with WGS, WES, RNA-Seq, targeted resequencing data, microbiome (16S, shotgun)
-        &bull; Familiar with public database e.g. GEO, TCGA, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS etc.
-        &bull; Biological data mining, biomarkers discovery, molecular subtyping and survival analysis
-        &bull; Experience in variant interpretation using ACGS, ACMG, AMP guidelines'
+        description: |2-
+            * Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
+            * Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
+            * Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
+            * Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
+            * Experience in variant interpretation using ACGS, ACMG, AMP guidelines
         percent: 100
         icon: database
         icon_pack: fas
       - name: Programming
-        description: 'Experience in  <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell <br>
-        &bull; Known Django, HTML, Bootstrap, JavaScript, SQL, C++ <br>
-        &bull; Familiar with Linux, Mac OS, Windows, AWS and GCP'
-        percent: 100
+        description:  |2-
+            * Lanuages: <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell, SQL
+            * Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
+            * Platform: Linux, Mac, Windows, AWS and GCP
+        percent: 90
         icon: terminal
         icon_pack: fas
       - name: Data Science
-        description: 'AI, ML'
-        percent: 100
+        description: 'Data wrangling, model training, data visualisation, database managment'
+        percent: 80
         icon: chart-line
         icon_pack: fas
   - name: Wet
@@ -86,12 +89,12 @@ skills:
         icon_pack: fas
       - name: Diagnostics
         description: 'Clinical Validation (CAP, ISO)'
-        percent: 100
+        percent: 85
         icon: vial-virus
         icon_pack: fas
       - name: Cell Culture & Drug Testing
-        description: 'Cell lines, organoids, Mouse Xenograft'
-        percent: 100
+        description: 'Cell lines, Organoids, Mouse Xenograft'
+        percent: 80
         icon: disease
         icon_pack: fas
 
@@ -123,9 +126,10 @@ social:
 highlight_name: true
 ---
 
-I am interested in the application of machine learning especially deep learning in oncology and development of bioinformatics tools for NGS data analysis.\n
+Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying <mark>bioinformatics & AI/ML</mark> techniques to analyze biological problems and next-generation sequencing (NGS) data. 
 
-In the past, I have worked on projects relating to microfluidics and mathematical modeling. I also have extensive wet lab experience, e.g. basic molecular biology techniques, tissue culture and drug testing.\n
+My skillset combines technical expertise with _hands on wet lab experience_. I'm proficient in common AI/ML frameworks and possess a strong understanding of NGS data processing pipelines, variant calling, and functional genomics analysis. Additionally, I have a solid foundation in molecular biology techniques, cell culture, and in vitro drug assays.
 
-As tons of people including experts, doctors and scientist foresee the advancement in artificial intelligence could accelerate the progress of personalized and precision oncology. I have a strong belief that the marriage of deep learning and next generation sequencing could be an indispensable catalyst, which fuelling my enthusiasm for applying deep learning on NGS data.
+I'm driven by the transformative potential of AI in the realm of precision medicine. I believe the synergy of deep learning and NGS data holds the key to unlocking novel diseases diagnoses and treatment strategies.
+
 {style="text-align: justify;"}

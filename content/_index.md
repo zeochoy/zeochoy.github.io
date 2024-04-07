@@ -76,8 +76,8 @@ sections:
               * Communicate technology strategy to partners and investors
         - title: MSc Thesis Project Suprevisor
           company: HKU SPACE
-          date_start: '2019-09-01'
-          date_end: '2022-01-30'
+          date_start: '2024-01-01'
+          date_end: '2024-06-30'
           description: 'Supervise MSc in Biomedical Sciences student to complete bioinformatics based thesis research projects.'
         - title: Senior Scientific Officer
           company: BioMed Technology Holdings Limited
@@ -101,9 +101,9 @@ sections:
         - title: Lecturer (Part Time)
           company: HKU SPACE Po Leung Kuk Stanley Ho Community College
           date_start: '2019-09-01'
-          date_end: '2022-01-30'
+          date_end: '2023-01-30'
           description: ''
-        - title: Research Officier
+        - title: Research Officer
           company: Sanomics Limited
           date_start: '2018-12-01'
           date_end: '2020-12-01'
