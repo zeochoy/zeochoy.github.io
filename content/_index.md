@@ -10,6 +10,7 @@ design:
 
 sections:
   - block: resume-biography-3
+    id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -28,8 +29,9 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        shape: rounded # Options: circle (default), square, rounded
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: ''
@@ -40,6 +42,7 @@ sections:
     design:
       view: citation
   - block: resume-experience
+    id: experience
     content:
       username: admin
     design:
@@ -48,8 +51,9 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
+    id: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
@@ -58,6 +62,7 @@ sections:
       title: Accomplishments
       username: admin
   - block: collection
+    id: projects
     content:
       title: Selected Projects
       text: ''
