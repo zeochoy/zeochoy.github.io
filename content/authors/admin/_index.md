@@ -24,13 +24,11 @@ role: PhD / Bioinformatician / AI & ML
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 
-    url: 
+  - name: ''
+    url: ''
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+# Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:zeochoy@gmail.com'
@@ -53,22 +51,22 @@ interests:
 
 # Education to show in About widget
 education:
-    - area: PhD in Medical Sciences
-      institution: The Chinese University of Hong Kong
-      date_start: 2016-08-01
-      date_end: 2019-07-31
-      summary: |2-
-      Thesis on _Advancing precision oncology with embedding and deep learning from chemoresistance forecast to therapeutic regimen proposal_
-    - area: MPhil in Medical Sciences
-      institution: The Chinese University of Hong Kong
-      date_start: 2014-08-01
-      date_end: 2016-07-31
-      summary: |2-
-      Thesis on _To study the drug resistance in esophageal squamous cell carcinoma_
-    - area: BEng in Biomedical Engineering
-      institution: The Chinese University of Hong Kong
-      date_start: 2011-09-01
-      date_end: 2014-07-31
+  - area: PhD in Medical Sciences
+    institution: The Chinese University of Hong Kong
+    date_start: 2016-08-01
+    date_end: 2019-07-31
+    summary: |2-
+    Thesis on _Advancing precision oncology with embedding and deep learning from chemoresistance forecast to therapeutic regimen proposal_
+  - area: MPhil in Medical Sciences
+    institution: The Chinese University of Hong Kong
+    date_start: 2014-08-01
+    date_end: 2016-07-31
+    summary: |2-
+    Thesis on _To study the drug resistance in esophageal squamous cell carcinoma_
+  - area: BEng in Biomedical Engineering
+    institution: The Chinese University of Hong Kong
+    date_start: 2011-09-01
+    date_end: 2014-07-31
 
 work:
   - position: Chief Bioinformatician
@@ -182,6 +180,35 @@ skills:
         percent: 80
         icon: disease
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: ESMO Congress 2018 Merit Award
+    url: ''
+    date: '2018-01-01'
+    awarder: European Society for Medical Oncology
+    icon: hero/trophy
+    summary: ''
+  - title: Yeung Sau Hang Memorial Scholarship
+    url: ''
+    date: '2018-01-01'
+    awarder: The Chinese University of Hong Kong
+    icon: hero/trophy
+    summary: ''
+  - title: Founding Master Gold Medal for Graduating Students
+    url: ''
+    date: '2014-01-01'
+    awarder: Lee Woo Sing College, The Chinese University of Hong Kong
+    icon: hero/trophy
+    summary: ''
+  - title: Dean’s List
+    url: ''
+    date: '2014-01-01'
+    awarder: Faculty of Engineering, The Chinese University of Hong Kong
+    icon: hero/trophy
+    summary: ''
 ---
 
 Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying bioinformatics & AI/ML techniques to analyze biological problems and next-generation sequencing (NGS) data. 
