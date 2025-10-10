@@ -57,13 +57,13 @@ education:
       institution: The Chinese University of Hong Kong
       date_start: 2016-08-01
       date_end: 2019-07-31
-      summary: |
+      summary: |2-
       Thesis on _Advancing precision oncology with embedding and deep learning from chemoresistance forecast to therapeutic regimen proposal_
     - area: MPhil in Medical Sciences
       institution: The Chinese University of Hong Kong
       date_start: 2014-08-01
       date_end: 2016-07-31
-      summary: |
+      summary: |2-
       Thesis on _To study the drug resistance in esophageal squamous cell carcinoma_
     - area: BEng in Biomedical Engineering
       institution: The Chinese University of Hong Kong
@@ -78,9 +78,9 @@ work:
     date_start: 2024-03-01
     date_end: ''
     summary: |2-
-      * Plan and implement bioinformatics and AI strategy to align with company goal
-      * 
-  - position: CTO
+      * Plan and implement bioinformatics & AI strategy to align with company goals
+      * Oversee the bioinformatics & AI pipeline development
+  - position: Founding CTO
     company_name: Petcision
     company_url: 'https://petcision.hk/'
     company_logo: ''
