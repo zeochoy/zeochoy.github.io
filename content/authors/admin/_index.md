@@ -154,9 +154,9 @@ skills:
         icon: hero/circle-stack
       - name: Programming
         description: |2-
-          ➤ Lanuages: Python, R, Shell, SQL
-          ➤ Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
-          ➤ Platform: Linux, Mac, Windows, AWS and GCP
+          ➤ Lanuages: <i class="fa-brands fa-python"></i> Python, R, Shell, SQL<br>
+          ➤ Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++<br>
+          ➤ Platform: Linux, Mac, Windows, AWS and GCP<br>
         percent: 90
         icon: hero/command-line
       - name: Data Science
