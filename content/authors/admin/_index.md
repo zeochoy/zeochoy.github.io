@@ -144,7 +144,7 @@ skills:
   - name: '💻 Dry'
     items:
       - name: Bioinformatics
-        description: |
+        description: |2-
           ➤ Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
           ➤ Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
           ➤ Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
@@ -153,7 +153,7 @@ skills:
         percent: 100
         icon: hero/circle-stack
       - name: Programming
-        description: |
+        description: |2-
           ➤ Lanuages: Python, R, Shell, SQL
           ➤ Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
           ➤ Platform: Linux, Mac, Windows, AWS and GCP
