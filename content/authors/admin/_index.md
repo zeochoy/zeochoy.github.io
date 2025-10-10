@@ -55,13 +55,90 @@ interests:
 education:
     - area: PhD in Medical Sciences
       institution: The Chinese University of Hong Kong
-      #year: 2019
+      date_start: 2016-08-01
+      date_end: 2019-07-31
+      summary: |
+      Thesis on _Advancing precision oncology with embedding and deep learning from chemoresistance forecast to therapeutic regimen proposal_
     - area: MPhil in Medical Sciences
       institution: The Chinese University of Hong Kong
-      #year: 2016
+      date_start: 2014-08-01
+      date_end: 2016-07-31
+      summary: |
+      Thesis on _To study the drug resistance in esophageal squamous cell carcinoma_
     - area: BEng in Biomedical Engineering
       institution: The Chinese University of Hong Kong
-      #year: 2014
+      date_start: 2011-09-01
+      date_end: 2014-07-31
+
+work:
+  - position: Chief Bioinformatician
+    company_name: GeneGuard Life Sciences
+    company_url: 'https://www.geneguardprobiotics.com/'
+    company_logo: ''
+    date_start: 2024-03-01
+    date_end: ''
+    summary: |2-
+      * Plan and implement bioinformatics and AI strategy to align with company goal
+      * 
+  - position: CTO
+    company_name: Petcision
+    company_url: 'https://petcision.hk/'
+    company_logo: ''
+    date_start: 2023-02-01
+    date_end: ''
+    summary: |2-
+      * Develop technical aspects of the company's strategy to ensure alignment with its business goals
+      * Discover and implement new technologies that yield competitive advantage
+      * Communicate technology strategy to partners and investors
+  - position: MSc Thesis Project Suprevisor
+    company_name: HKU SPACE
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-01-01
+    date_end: ''
+    summary: |
+      Supervise MSc in Biomedical Sciences student to complete bioinformatics based thesis research projects.
+  - position: Senior Scientific Officer (Bioinformatics)
+    company_name: BioMed Technology Holdings Limited
+    company_url: 'https://biomed.hk/'
+    company_logo: ''
+    date_start: 2022-02-10
+    date_end: 2024-03-18
+    summary: |2-
+      * In charge of the research logistics, coordination, timeline, manuscript preparation and bioinformatics analysis for microbiome research projects
+      * Leaded the R&D team and interns to prepare scientifically driven materials to support sales & marketing activities
+  - position: Scientific Officer (Cancer Genome)
+    company_name: Hong Kong Genome Institute
+    company_url: 'https://hkgp.org/'
+    company_logo: ''
+    date_start: 2021-03-01
+    date_end: 2021-11-30
+    summary: |2-
+      * Assisted the senior officers in planning and setting up a new molecular laboratory supporting population genome project
+      * Prepared reporting guidelines and internal training materials for data interpretation and genome analysis
+  - position: Research Scientist
+    company_name: InSilico Medicine
+    company_url: 'https://insilico.com/'
+    company_logo: ''
+    date_start: 2020-12-15
+    date_end: 2021-02-15
+    summary: ''
+  - position: Lecturer (Part Time)
+    company_name: HKU SPACE Po Leung Kuk Stanley Ho Community College
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-09-01
+    date_end: 2023-01-30
+    summary: ''
+  - position: Research Officer
+    company_name: Sanomics Limited
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-12-01
+    date_end: 2020-12-01
+    summary: |2-
+      * Provided bioinformatics support (including QA/QC, data analysis, management, and interpretation) for clinical reporting of NGS data
+      * Leaded and planned various cancer research projects ($10m funding)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -77,7 +154,6 @@ skills:
             * Experience in variant interpretation using ACGS, ACMG, AMP guidelines
         percent: 100
         icon: database
-        icon_pack: fas
       - name: Programming
         description:  |2-
             * Lanuages: <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell, SQL
@@ -85,12 +161,10 @@ skills:
             * Platform: Linux, Mac, Windows, AWS and GCP
         percent: 90
         icon: terminal
-        icon_pack: fas
       - name: Data Science
-        description: 'Data wrangling, model training, data visualisation, database managment'
+        description: 'Data wrangling, model training (scikit-learn), data visualisation (matplotlib, seaborn, ggplot), database managment (SQL)'
         percent: 80
         icon: chart-line
-        icon_pack: fas
   - name: Wet
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -99,17 +173,14 @@ skills:
         description: 'NGS, PCR (PCR, qPCR, dPCR), cloning, immunostaining (IF/ICC/IHC), western blotting, flow cytometry'
         percent: 100
         icon: dna
-        icon_pack: fas
       - name: Diagnostics
         description: 'Clinical Validation (CAP, ISO)'
         percent: 85
         icon: vial-virus
-        icon_pack: fas
       - name: Cell Culture & Drug Testing
         description: 'Cell lines, Organoids, Mouse Xenograft'
         percent: 80
         icon: disease
-        icon_pack: fas
 
 ---
 
