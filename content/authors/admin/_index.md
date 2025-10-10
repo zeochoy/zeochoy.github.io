@@ -1,169 +1,135 @@
 ---
 # Display name
-title: Alex Johnson
+title: Zeo Choy
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
+first_name: Zeo
+last_name: Choy
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🧬
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD / Bioinformatician / AI & ML
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to show in About widget
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: 
+    url: 
 
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+# Short bio (displayed in user profile at end of posts)
+bio: ''
 
+# Interests to show in About widget
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Bioinformatics
+  - AI/ML
+  - NGS
+  - Precision Medicine
+  - Molecular Diagnostics
+  - Cancer
+  - Microbiome
 
+# Education to show in About widget
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+  courses:
+    - course: PhD in Medical Sciences
+      institution: The Chinese University of Hong Kong
+      year: 2019
+    - course: MPhil in Medical Sciences
+      institution: The Chinese University of Hong Kong
+      year: 2016
+    - course: BEng in Biomedical Engineering
+      institution: The Chinese University of Hong Kong
+      year: 2014
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical Skills
+  - name: Dry
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
+      - name: Bioinformatics
+        description: |2-
+            * Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
+            * Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
+            * Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
+            * Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
+            * Experience in variant interpretation using ACGS, ACMG, AMP guidelines
         percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
+        icon: database
+        icon_pack: fas
+      - name: Programming
+        description:  |2-
+            * Lanuages: <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell, SQL
+            * Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
+            * Platform: Linux, Mac, Windows, AWS and GCP
+        percent: 90
+        icon: terminal
+        icon_pack: fas
+      - name: Data Science
+        description: 'Data wrangling, model training, data visualisation, database managment'
+        percent: 80
+        icon: chart-line
+        icon_pack: fas
+  - name: Wet
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
-        description: ''
+      - name: Molecular Techniques
+        description: 'NGS, PCR (PCR, qPCR, dPCR), cloning, immunostaining (IF/ICC/IHC), western blotting, flow cytometry'
+        percent: 100
+        icon: dna
+        icon_pack: fas
+      - name: Diagnostics
+        description: 'Clinical Validation (CAP, ISO)'
+        percent: 85
+        icon: vial-virus
+        icon_pack: fas
+      - name: Cell Culture & Drug Testing
+        description: 'Cell lines, Organoids, Mouse Xenograft'
         percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
+        icon: disease
+        icon_pack: fas
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:zeochoy@gmail.com
+  - icon: google-scholar
+    icon_pack: fab
+    link: https://scholar.google.com/citations?user=KNBUcQ4AAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/zeochoy
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/zeochoy/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying <mark>bioinformatics & AI/ML</mark> techniques to analyze biological problems and next-generation sequencing (NGS) data. 
+
+My skillset combines technical expertise with _hands on wet lab experience_. I'm proficient in common AI/ML frameworks and possess a strong understanding of NGS data processing pipelines, variant calling, and functional genomics analysis. Additionally, I have a solid foundation in molecular biology techniques, cell culture, and in vitro drug assays.
+
+I'm driven by the transformative potential of AI in the realm of precision medicine. I believe the synergy of deep learning and NGS data holds the key to unlocking novel diseases diagnoses and treatment strategies.
+
+{style="text-align: justify;"}
