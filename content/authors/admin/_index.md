@@ -56,13 +56,13 @@ education:
     date_start: 2016-08-01
     date_end: 2019-07-31
     summary: |2-
-    Thesis on _Advancing precision oncology with embedding and deep learning from chemoresistance forecast to therapeutic regimen proposal_
+      Thesis on _Advancing precision oncology with embedding and deep learning from chemoresistance forecast to therapeutic regimen proposal_
   - area: MPhil in Medical Sciences
     institution: The Chinese University of Hong Kong
     date_start: 2014-08-01
     date_end: 2016-07-31
     summary: |2-
-    Thesis on _To study the drug resistance in esophageal squamous cell carcinoma_
+      Thesis on _To study the drug resistance in esophageal squamous cell carcinoma_
   - area: BEng in Biomedical Engineering
     institution: The Chinese University of Hong Kong
     date_start: 2011-09-01
@@ -145,18 +145,18 @@ skills:
     items:
       - name: Bioinformatics
         description: |2-
-            * Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
-            * Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
-            * Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
-            * Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
-            * Experience in variant interpretation using ACGS, ACMG, AMP guidelines
+          * Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
+          * Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
+          * Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
+          * Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
+          * Experience in variant interpretation using ACGS, ACMG, AMP guidelines
         percent: 100
         icon: database
       - name: Programming
         description:  |2-
-            * Lanuages: <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell, SQL
-            * Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
-            * Platform: Linux, Mac, Windows, AWS and GCP
+          * Lanuages: <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell, SQL
+          * Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
+          * Platform: Linux, Mac, Windows, AWS and GCP
         percent: 90
         icon: terminal
       - name: Data Science

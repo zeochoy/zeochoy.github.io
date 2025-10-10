@@ -39,6 +39,38 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Accomplishments
+      username: admin
+  - block: collection
+    content:
+      title: Selected Projects
+      text: ''
+      filters:
+        folders:
+          - projects
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
