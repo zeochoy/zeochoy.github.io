@@ -1,6 +1,6 @@
 ---
 title: 'Projects'
-date: 2024-05-19
+date: 2025-10-10
 type: landing
 
 design:
@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: 
+      text: ''
       filters:
         folders:
           - projects
