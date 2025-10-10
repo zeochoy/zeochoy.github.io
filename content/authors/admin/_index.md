@@ -141,42 +141,43 @@ work:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Dry
+  - name: '💻 Dry'
     items:
       - name: Bioinformatics
-        description: |2-
+        description: |
           * Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
           * Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
           * Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
           * Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
           * Experience in variant interpretation using ACGS, ACMG, AMP guidelines
         percent: 100
-        icon: database
+        icon: hero/circle-stack
       - name: Programming
-        description:  |2-
-          * Lanuages: <i class="fab fa-python"></i> Python, <i class="fab fa-r-project"></i> R, Shell, SQL
+        description: |
+          * Lanuages: Python, R, Shell, SQL
           * Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
           * Platform: Linux, Mac, Windows, AWS and GCP
         percent: 90
-        icon: terminal
+        icon: hero/command-line
       - name: Data Science
         description: 'Data wrangling, model training (scikit-learn), data visualisation (matplotlib, seaborn, ggplot), database managment (SQL)'
         percent: 80
-        icon: chart-line
-  - name: Wet
-    color: '#eeac02'
-    color_border: '#f0bf23'
+        icon: hero/light-bulb
+  - name: '🧫 Wet'
     items:
       - name: Molecular Techniques
-        description: 'NGS, PCR (PCR, qPCR, dPCR), cloning, immunostaining (IF/ICC/IHC), western blotting, flow cytometry'
+        description: |
+          NGS, PCR (PCR, qPCR, dPCR), cloning, immunostaining (IF/ICC/IHC), western blotting, flow cytometry
         percent: 100
         icon: dna
       - name: Diagnostics
-        description: 'Clinical Validation (CAP, ISO)'
+        description: |
+          Clinical Validation (CAP, ISO)
         percent: 85
         icon: vial-virus
       - name: Cell Culture & Drug Testing
-        description: 'Cell lines, Organoids, Mouse Xenograft'
+        description: |
+          Cell lines, Organoids, Mouse Xenograft
         percent: 80
         icon: disease
 

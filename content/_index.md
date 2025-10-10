@@ -9,7 +9,7 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -56,7 +56,7 @@ sections:
       title: Skills
       username: admin
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-awards
     content:
       title: Accomplishments
