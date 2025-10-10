@@ -9,7 +9,7 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     id: about
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -29,17 +29,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
-  - block: collection
-    id: publications
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
   - block: resume-experience
     id: experience
     content:
@@ -56,6 +45,17 @@ sections:
       username: admin
     design:
       show_skill_percentage: true
+  - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      text: ''
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   - block: resume-awards
     content:
       title: Accomplishments

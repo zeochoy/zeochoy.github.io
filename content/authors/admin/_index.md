@@ -145,11 +145,11 @@ skills:
     items:
       - name: Bioinformatics
         description: |2-
-          ➤ Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
-          ➤ Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
-          ➤ Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
-          ➤ Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
-          ➤ Experience in variant interpretation using ACGS, ACMG, AMP guidelines
+          ➤ Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome<br>
+          ➤ Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.<br>
+          ➤ Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.<br>
+          ➤ Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN<br>
+          ➤ Experience in variant interpretation using ACGS, ACMG, AMP guidelines<br>
         percent: 100
         icon: hero/circle-stack
       - name: Programming
@@ -169,17 +169,17 @@ skills:
         description: |
           NGS, PCR (PCR, qPCR, dPCR), cloning, immunostaining (IF/ICC/IHC), western blotting, flow cytometry
         percent: 100
-        icon: custom/dna-solid-full
+        icon: "custom/dna-solid-full"
       - name: Diagnostics
         description: |
           Clinical Validation (CAP, ISO)
         percent: 85
-        icon: custom/stethoscope-solid-full
+        icon: "custom/stethoscope-solid-full"
       - name: Cell Culture & Drug Testing
         description: |
           Cell lines, Organoids, Mouse Xenograft
         percent: 80
-        icon: custom/vial-virus-solid-full
+        icon: "custom/vial-virus-solid-full"
 
 # Awards.
 #   Add/remove as many awards below as you like.
