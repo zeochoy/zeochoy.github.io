@@ -154,14 +154,14 @@ skills:
         icon: hero/circle-stack
       - name: Programming
         description: |2-
-          ➤ Lanuages: <i class="fa-brands fa-python"></i> Python, R, Shell, SQL<br>
+          ➤ Lanuages: <i class="devicon-python-plain"></i> Python, R, Shell, SQL<br>
           ➤ Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++<br>
           ➤ Platform: Linux, Mac, Windows, AWS and GCP<br>
         percent: 90
         icon: hero/command-line
       - name: Data Science
         description: 'Data wrangling, model training (scikit-learn), data visualisation (matplotlib, seaborn, ggplot), database managment (SQL)'
-        percent: 80
+        percent: 90
         icon: hero/light-bulb
   - name: '🧫 Wet'
     items:
@@ -212,7 +212,7 @@ awards:
     summary: ''
 ---
 
-Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying bioinformatics & AI/ML techniques to analyze biological problems and next-generation sequencing (NGS) data. 
+Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying ==bioinformatics & AI/ML== techniques to analyze biological problems and next-generation sequencing (NGS) data. 
 
 My skillset combines technical expertise with _hands on wet lab experience_. I'm proficient in common AI/ML frameworks and possess a strong understanding of NGS data processing pipelines, variant calling, and functional genomics analysis. Additionally, I have a solid foundation in molecular biology techniques, cell culture, and in vitro drug assays.
 
