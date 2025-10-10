@@ -16,6 +16,9 @@ status:
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
 role: PhD / Bioinformatician / AI & ML
 
@@ -24,8 +27,19 @@ organizations:
   - name: 
     url: 
 
-# Short bio (displayed in user profile at end of posts)
-bio: ''
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:zeochoy@gmail.com'
+  - icon: brands/github
+    url: https://github.com/zeochoy
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/zeochoy/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=KNBUcQ4AAAAJ
 
 # Interests to show in About widget
 interests:
@@ -39,16 +53,15 @@ interests:
 
 # Education to show in About widget
 education:
-  courses:
-    - course: PhD in Medical Sciences
+    - area: PhD in Medical Sciences
       institution: The Chinese University of Hong Kong
-      year: 2019
-    - course: MPhil in Medical Sciences
+      #year: 2019
+    - area: MPhil in Medical Sciences
       institution: The Chinese University of Hong Kong
-      year: 2016
-    - course: BEng in Biomedical Engineering
+      #year: 2016
+    - area: BEng in Biomedical Engineering
       institution: The Chinese University of Hong Kong
-      year: 2014
+      #year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -98,38 +111,10 @@ skills:
         icon: disease
         icon_pack: fas
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:zeochoy@gmail.com
-  - icon: google-scholar
-    icon_pack: fab
-    link: https://scholar.google.com/citations?user=KNBUcQ4AAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/zeochoy
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/zeochoy/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  #- icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
 ---
 
-Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying <mark>bioinformatics & AI/ML</mark> techniques to analyze biological problems and next-generation sequencing (NGS) data. 
+Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying bioinformatics & AI/ML techniques to analyze biological problems and next-generation sequencing (NGS) data. 
 
 My skillset combines technical expertise with _hands on wet lab experience_. I'm proficient in common AI/ML frameworks and possess a strong understanding of NGS data processing pipelines, variant calling, and functional genomics analysis. Additionally, I have a solid foundation in molecular biology techniques, cell culture, and in vitro drug assays.
 
 I'm driven by the transformative potential of AI in the realm of precision medicine. I believe the synergy of deep learning and NGS data holds the key to unlocking novel diseases diagnoses and treatment strategies.
-
-{style="text-align: justify;"}
