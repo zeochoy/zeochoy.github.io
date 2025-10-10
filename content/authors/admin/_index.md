@@ -145,18 +145,18 @@ skills:
     items:
       - name: Bioinformatics
         description: |
-          * Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
-          * Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
-          * Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
-          * Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
-          * Experience in variant interpretation using ACGS, ACMG, AMP guidelines
+          ➤ Data: WGS, WES, RNA-Seq, targeted resequencing, 16S/shotgun microbiome
+          ➤ Database: GEO, TCGA, PCAWG, COSMIC, dbSNP, gnomAD, ClinVar, OncoKB, CCLE, LINCS, SILVA, Greengenes etc.
+          ➤ Analysis: biological data mining, biomarkers discovery, molecular subtyping, survival analysis, differential abundance analysis, network inference etc.
+          ➤ Pipeline: GATK, DRAGEN, QIIME2/PICRUSt, kneadData/MetaPhlAn/HUMAnN
+          ➤ Experience in variant interpretation using ACGS, ACMG, AMP guidelines
         percent: 100
         icon: hero/circle-stack
       - name: Programming
         description: |
-          * Lanuages: Python, R, Shell, SQL
-          * Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
-          * Platform: Linux, Mac, Windows, AWS and GCP
+          ➤ Lanuages: Python, R, Shell, SQL
+          ➤ Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++
+          ➤ Platform: Linux, Mac, Windows, AWS and GCP
         percent: 90
         icon: hero/command-line
       - name: Data Science
@@ -169,17 +169,17 @@ skills:
         description: |
           NGS, PCR (PCR, qPCR, dPCR), cloning, immunostaining (IF/ICC/IHC), western blotting, flow cytometry
         percent: 100
-        icon: dna
+        icon: custom/dna-solid-full
       - name: Diagnostics
         description: |
           Clinical Validation (CAP, ISO)
         percent: 85
-        icon: vial-virus
+        icon: custom/stethoscope-solid-full
       - name: Cell Culture & Drug Testing
         description: |
           Cell lines, Organoids, Mouse Xenograft
         percent: 80
-        icon: disease
+        icon: custom/vial-virus-solid-full
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -196,7 +196,7 @@ awards:
     url: ''
     date: '2018-01-01'
     awarder: The Chinese University of Hong Kong
-    icon: hero/trophy
+    icon: hero/academic-cap
     summary: ''
   - title: Founding Master Gold Medal for Graduating Students
     url: ''
@@ -208,7 +208,7 @@ awards:
     url: ''
     date: '2014-01-01'
     awarder: Faculty of Engineering, The Chinese University of Hong Kong
-    icon: hero/trophy
+    icon: hero/academic-cap
     summary: ''
 ---
 
