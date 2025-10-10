@@ -154,7 +154,7 @@ skills:
         icon: hero/circle-stack
       - name: Programming
         description: |2-
-          ➤ Lanuages: <i class="devicon-python-plain"></i> Python, R, Shell, SQL<br>
+          ➤ Lanuages: Python, R, Shell, SQL<br>
           ➤ Frameworks: Django, Flask, Streamlit, HTML, Bootstrap, JavaScript, SQL, C++<br>
           ➤ Platform: Linux, Mac, Windows, AWS and GCP<br>
         percent: 90
@@ -212,7 +212,7 @@ awards:
     summary: ''
 ---
 
-Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying ==bioinformatics & AI/ML== techniques to analyze biological problems and next-generation sequencing (NGS) data. 
+Highly motivated individual with a deep interest in leveraging artificial intelligence for precision medicine. My focus lies in applying <mark>bioinformatics & AI/ML</mark> techniques to analyze biological problems and next-generation sequencing (NGS) data. 
 
 My skillset combines technical expertise with _hands on wet lab experience_. I'm proficient in common AI/ML frameworks and possess a strong understanding of NGS data processing pipelines, variant calling, and functional genomics analysis. Additionally, I have a solid foundation in molecular biology techniques, cell culture, and in vitro drug assays.
 
