@@ -76,8 +76,8 @@ work:
     date_start: 2024-03-01
     date_end: ''
     summary: |2-
-      * Plan and implement bioinformatics & AI strategy to align with company goals
-      * Oversee the bioinformatics & AI pipeline development
+      * Lead the bioinformatics team to construct, prototype, deploy and maintain the AI-assisted next generation probiotics (NGP) design engine
+      * Prepare and draft research proposals to apply various government fundings in collaboration with academic collaborators
   - position: Founding CTO
     company_name: Petcision
     company_url: 'https://petcision.hk/'
@@ -86,8 +86,8 @@ work:
     date_end: ''
     summary: |2-
       * Develop technical aspects of the company's strategy to ensure alignment with its business goals
-      * Discover and implement new technologies that yield competitive advantage
-      * Communicate technology strategy to partners and investors
+      * Build the AI models and bioinformatics reporting pipeline of gut microbiome analysis to reflect health status in companion animals
+      * Succesfully granted a Hong Kong short term patent within a year and filed 2 patents applications in China and US
   - position: MSc Thesis Project Suprevisor
     company_name: HKU SPACE
     company_url: ''
