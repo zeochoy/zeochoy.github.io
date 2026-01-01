@@ -69,12 +69,19 @@ education:
     date_end: 2014-07-31
 
 work:
+  - position: Project Manager
+    company_name: HKU
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-06-15
+    date_end: 2025-01-15
+    summary: ''
   - position: Chief Bioinformatician
     company_name: GeneGuard Life Sciences
-    company_url: 'https://www.geneguardprobiotics.com/'
+    company_url: ''
     company_logo: ''
-    date_start: 2024-03-01
-    date_end: ''
+    date_start: 2024-09-01
+    date_end: 2025-12-31
     summary: |2-
       * Lead the bioinformatics team to construct, prototype, deploy and maintain the AI-assisted next generation probiotics (NGP) design engine
       * Prepare and draft research proposals to apply various government fundings in collaboration with academic collaborators
