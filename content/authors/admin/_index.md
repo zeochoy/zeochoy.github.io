@@ -90,7 +90,7 @@ work:
     company_url: 'https://petcision.hk/'
     company_logo: ''
     date_start: 2023-02-01
-    date_end: ''
+    date_end: 2026-03-31
     summary: |2-
       * Develop technical aspects of the company's strategy to ensure alignment with its business goals
       * Build the AI models and bioinformatics reporting pipeline of gut microbiome analysis to reflect health status in companion animals
