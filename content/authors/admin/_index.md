@@ -74,7 +74,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-06-15
-    date_end: 2025-01-15
+    date_end: 2026-01-15
     summary: ''
   - position: Chief Bioinformatician
     company_name: GeneGuard Life Sciences
